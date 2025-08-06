@@ -1,9 +1,15 @@
-# Minecraft Bedrock Edition quick launcher
-A quick and simple launcher for **Minecraft Bedrock Edition** (Click and Run).
-This eliminates the need for additional launchers and allows you to easily add it to **Steam** as a non-Steam game. You can then launch it directly from your Steam client, desktop, or any folder where you keep a copy of this project.
+# Quick Launcher for Minecraft: Bedrock Edition
+**A minimalist and practical launcher for Minecraft: Bedrock Edition that lets you start the game with a single click.**
 
-Note: This launcher requires an official copy of Minecraft Bedrock Edition installed on your computer.
-If it's not installed, a dialog box will appear informing you that Minecraft Bedrock Edition is missing, or you'll be redirected to the Microsoft Store to purchase or install the official launcher.
+This launcher eliminates the need for additional launchers and simplifies adding Minecraft to Steam as a non-Steam game. Consequently, the game can be launched directly from Steam, the desktop, or any folder containing the launcher.
 
-**Need help adding the game to Steam or customizing its appearance on Steam?**
-Join our **Discord** server for support and design tips: https://discord.gg/YXBPUmnZQn
+Without any extra interface or configuration, the launcher runs the official Minecraft: Bedrock Edition and remains active in the background until the game is closed. This makes it well-suited for Steam integration, enabling playtime tracking and live gameplay sharing through the Steam profile.
+
+### Requirements:
+* A 64-bit operating system is required.
+* An official copy of **Minecraft for Windows** (the **Microsoft Store** version of **Minecraft: Bedrock Edition**) must be installed on the device.
+  If Minecraft is not installed, a notification will appear or the user will be redirected to the Microsoft Store to purchase or install the game.
+
+### Support:
+For assistance with adding the game to Steam or customizing its appearance, please join our **Discord** server:
+[https://discord.gg/YXBPUmnZQn](https://discord.gg/YXBPUmnZQn)
