@@ -8,7 +8,6 @@ Without any extra interface or configuration, the launcher runs the official Min
 ### Requirements:
 * A 64-bit operating system is required.
 * An official copy of **Minecraft for Windows** (the **Microsoft Store** version of **Minecraft: Bedrock Edition**) must be installed on the device.
-  If Minecraft is not installed, a notification will appear or the user will be redirected to the Microsoft Store to purchase or install the game.
 
 ### Support:
 For assistance with adding the game to Steam or customizing its appearance, please join our **Discord** server:
