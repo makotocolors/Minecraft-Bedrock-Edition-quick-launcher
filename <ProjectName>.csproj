@@ -11,9 +11,9 @@
     <IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
     <TrimUnusedDependencies>true</TrimUnusedDependencies>
     <ApplicationIcon>icon.ico</ApplicationIcon>
-    <AssemblyVersion>1.2.0.0</AssemblyVersion>
-    <FileVersion>1.2.0.0</FileVersion>
-    <Version>1.2.0</Version>
+    <AssemblyVersion>1.3.0.0</AssemblyVersion>
+    <FileVersion>1.3.0.0</FileVersion>
+    <Version>1.3.0</Version>
     <Company>Memories of Loliness!</Company>
     <Description>A minimalist and practical launcher for Minecraft: Bedrock Edition that lets you start the game with a single click.</Description>
     <WindowsAppSDKSelfContained>true</WindowsAppSDKSelfContained>
